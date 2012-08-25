@@ -1,50 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DALE</Machine>
-    <WindowsUser>Dale</WindowsUser>
+    <Machine>CENTRALSTATION</Machine>
+    <WindowsUser>Logan</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\BambooToothpicks.exe">
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\BambooToothpicks.exe">
       <PackagePath>BambooToothpicks.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\BambooToothpicks.pdb">
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\BambooToothpicks.pdb">
       <PackagePath>BambooToothpicks.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\App.xaml">
-      <PackagePath>App.xaml</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\MainPage.xaml">
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

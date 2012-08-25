@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CENTRALSTATION</Machine>
+    <WindowsUser>Logan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>DBBD62DDAC71C2D222AA64A54CD4481AF4ED5A415A127603F5A3230C547E92FC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cd670e80-52db-4e7d-908e-6728bb225e48_1.0.0.0_neutral__bqqxfevtk0d8a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cd670e80-52db-4e7d-908e-6728bb225e48_bqqxfevtk0d8a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cd670e80-52db-4e7d-908e-6728bb225e48</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Logan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-24T21:04:03.212</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\bin\Debug\GridStyle.exe">
+      <PackagePath>GridStyle.exe</PackagePath>
+      <Modified>2012-08-24T21:24:00.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\bin\Debug\GridStyle.pdb">
+      <PackagePath>GridStyle.pdb</PackagePath>
+      <Modified>2012-08-24T21:24:00.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T17:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-01-27T10:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-01-27T10:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-01-27T10:21:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-04-23T21:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2012-08-24T21:03:48.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2012-08-24T21:03:48.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2012-08-24T21:03:48.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-08-24T20:57:51.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\GridStyle\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-08-24T20:57:55.854</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

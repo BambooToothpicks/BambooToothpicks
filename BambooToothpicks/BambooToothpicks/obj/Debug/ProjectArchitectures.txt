@@ -1,1 +1,1 @@
-C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\BambooToothpicks.csproj;neutral
+C:\Users\Logan\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\BambooToothpicks.csproj;neutral
