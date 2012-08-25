@@ -197,29 +197,31 @@ namespace GridStyle.Data
             var xdoc = xmlDocument.GetResults();
 
             XmlNodeList videosList = xdoc.GetElementsByTagName("item");
-           /*
-     <item>
+          
+            /*
+             <item>
+		        <title><![CDATA[Royal.Pains.S04E12.HDTV.x264-ASAP.[eztv].torrent]]></title>
+		        <category>TV - EZTV</category>
+		        <source url="http://www.bt-chat.com/rss.php?group=3">EZTV</source>
+		        <description><![CDATA[http://www.bt-chat.com/details.php?id=162035]]></description>
+		        <guid isPermaLink="true">http://www.bt-chat.com/details.php?id=162035</guid>
+		        <link>http://www.bt-chat.com/download1.php?id=162035</link>
+		        <pubDate>Wed, 05 Sep 2012 22:34:49 EST</pubDate>
+		        <enclosure url="http://www.bt-chat.com/download1.php?id=162035" length="388989914" type="application/x-bittorrent" />
+		        <torrent xmlns="http://xmlns.bt-chat.com/0.1/">
+			        <fileName>Royal.Pains.S04E12.HDTV.x264-ASAP.[eztv].torrent</fileName>
+			        <contentLength>388989914</contentLength>
+			        <infoHash>56ab3051cd0e7927ab63ba2d3a4952be98d14d7c</infoHash>
+			        <magnetURI><![CDATA[magnet:?xt=urn:btih:56ab3051cd0e7927ab63ba2d3a4952be98d14d7c&dn=Royal Pains S04E12 HDTV x264-ASAP [eztv]]]></magnetURI>
+			        <trackers>
+				        <group order="random">
+					        <tracker><![CDATA[udp://tracker.openbittorrent.com:80/]]></tracker>
+				        </group>
+			        </trackers>
+		        </torrent>
+	        </item>
+             */
 
-		<title><![CDATA[Royal.Pains.S04E12.HDTV.x264-ASAP.[eztv].torrent]]></title>
-		<category>TV - EZTV</category>
-		<source url="http://www.bt-chat.com/rss.php?group=3">EZTV</source>
-		<description><![CDATA[http://www.bt-chat.com/details.php?id=162035]]></description>
-		<guid isPermaLink="true">http://www.bt-chat.com/details.php?id=162035</guid>
-		<link>http://www.bt-chat.com/download1.php?id=162035</link>
-		<pubDate>Wed, 05 Sep 2012 22:34:49 EST</pubDate>
-		<enclosure url="http://www.bt-chat.com/download1.php?id=162035" length="388989914" type="application/x-bittorrent" />
-		<torrent xmlns="http://xmlns.bt-chat.com/0.1/">
-			<fileName>Royal.Pains.S04E12.HDTV.x264-ASAP.[eztv].torrent</fileName>
-			<contentLength>388989914</contentLength>
-			<infoHash>56ab3051cd0e7927ab63ba2d3a4952be98d14d7c</infoHash>
-			<magnetURI><![CDATA[magnet:?xt=urn:btih:56ab3051cd0e7927ab63ba2d3a4952be98d14d7c&dn=Royal Pains S04E12 HDTV x264-ASAP [eztv]]]></magnetURI>
-			<trackers>
-				<group order="random">
-					<tracker><![CDATA[udp://tracker.openbittorrent.com:80/]]></tracker>
-				</group>
-			</trackers>
-		</torrent>
-	</item>*/
             var group1 = new RssDataGroup(xdoc.SelectSingleNode("/rss/channel/description").InnerText,
                     xdoc.SelectSingleNode("/rss/channel/title").InnerText,
                     string.Empty,
