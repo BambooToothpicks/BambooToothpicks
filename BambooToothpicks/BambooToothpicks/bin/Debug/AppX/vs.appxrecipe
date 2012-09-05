@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DALE</Machine>
+    <WindowsUser>Dale</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>DA402F5A15E066B5E90B42192C759228BD8B6E948BFD513925198944EF05FBB8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0ed6e31e-2bcb-4525-b0c4-3db2300299c6_1.0.0.0_neutral__0rz99m4jw427m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0ed6e31e-2bcb-4525-b0c4-3db2300299c6_0rz99m4jw427m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0ed6e31e-2bcb-4525-b0c4-3db2300299c6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dale</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-05T01:02:57.898</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\BambooToothpicks.exe">
+      <PackagePath>BambooToothpicks.exe</PackagePath>
+      <Modified>2012-09-05T01:41:08.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\BambooToothpicks.pdb">
+      <PackagePath>BambooToothpicks.pdb</PackagePath>
+      <Modified>2012-09-05T01:41:08.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-05T00:45:08.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-09-05T01:39:35.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dale\Documents\GitHub\BambooToothpicks\BambooToothpicks\BambooToothpicks\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-04T21:09:57.838</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

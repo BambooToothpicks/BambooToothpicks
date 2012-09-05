@@ -14,7 +14,7 @@
         </Grid.RowDefinitions>
 
         <!-- Title -->
-        <Button x:Uid="btnRSSRead" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,19,0,0" Click="Button_Click_1"/>
+        <Button x:ConnectionId='1' x:Uid="btnRSSRead" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,19,0,0"                       />
         <TextBox x:Name="txtRssUrl" HorizontalAlignment="Left" Margin="174,19,0,0" TextWrapping="Wrap" Text="http://www.ezrss.it/feed/" VerticalAlignment="Top" Width="841" />
         <TextBlock x:Name="TitleText" Text="{Binding Title}"
                    VerticalAlignment="Center" FontSize="48" Margin="56,0,0,0"/>
@@ -29,9 +29,9 @@
             <!-- Left column -->
             <!-- The default value of Grid.Column is 0, so we do not need to set it   
                  to make the ListView show up in the first column. -->
-            <ListView x:Name="ItemListView"  
+            <ListView x:ConnectionId='2' x:Name="ItemListView"  
                       ItemsSource="{Binding Items}"
-                      Margin="60,0,0,10" SelectionChanged="ItemListView_SelectionChanged">
+                      Margin="60,0,0,10"                                                 >
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <StackPanel>
@@ -56,3 +56,4 @@
         </Grid>
     </Grid>
 </Page>
+
